@@ -11,3 +11,6 @@ This is a simple web application that fetches and displays random Chuck Norris j
 - HTML
 - JavaScript
 - Fetch API
+
+
+https://praptiiiii.github.io/Jokes-Generator-/
